@@ -9,5 +9,6 @@ module.exports = {
   Ping:   require('./lib/ping'),
   PIR:    require('./lib/pir'),
   RC:     require('./lib/rc'),
-  IR:     require('./lib/ir')
+  IR:     require('./lib/ir'),
+  Activelow:    require('./lib/activelow')
 };
