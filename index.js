@@ -10,5 +10,6 @@ module.exports = {
   PIR:    require('./lib/pir'),
   LCD:    require('./lib/lcd'),
   RC:     require('./lib/rc'),
-  IR:     require('./lib/ir')
+  IR:     require('./lib/ir'),
+  Activelow:    require('./lib/activelow')
 };
